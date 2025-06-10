@@ -1,6 +1,6 @@
 package com.bankassurance.backend.services.imp;
 
-import com.bankassurance.backend.models.Utils.ThresholdConfigurationMapper;
+import com.bankassurance.backend.models.utils.ThresholdConfigurationMapper;
 import com.bankassurance.backend.repository.insurance_configuration_rep.ThresholdsConfigurationRepository;
 import com.bankassurance.backend.services.userservices.ThresholdsConfigurationService;
 

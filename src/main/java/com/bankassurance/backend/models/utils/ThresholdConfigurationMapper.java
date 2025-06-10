@@ -1,4 +1,4 @@
-package com.bankassurance.backend.models.Utils;
+package com.bankassurance.backend.models.utils;
 
 import com.bankassurance.backend.dto.ThresholdsConfigurationDTO;
 import com.bankassurance.backend.repository.configuration_entity.ThresholdsConfiguration;

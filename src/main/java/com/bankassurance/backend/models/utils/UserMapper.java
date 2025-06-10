@@ -1,4 +1,4 @@
-package com.bankassurance.backend.models.Utils;
+package com.bankassurance.backend.models.utils;
 
 import com.bankassurance.backend.models.requests.UserRequest;
 import com.bankassurance.backend.models.responses.UserResponse;

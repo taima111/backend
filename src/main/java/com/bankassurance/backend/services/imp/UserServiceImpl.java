@@ -1,6 +1,6 @@
 package com.bankassurance.backend.services.imp;
 
-import com.bankassurance.backend.models.Utils.UserMapper;
+import com.bankassurance.backend.models.utils.UserMapper;
 import com.bankassurance.backend.models.enums.Role;
 import com.bankassurance.backend.models.requests.UserRequest;
 import com.bankassurance.backend.models.responses.UserResponse;
